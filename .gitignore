@@ -1,0 +1,9 @@
+desktop.ini
+__pycache__/
+.venv
+.python-version
+*/desktop.ini
+*.toml
+*.lock
+*/desktop.ini
+*.log
