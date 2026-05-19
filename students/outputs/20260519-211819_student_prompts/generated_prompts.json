@@ -1,0 +1,46 @@
+[
+  {
+    "target": "tp2-chosen/1159_25.png",
+    "target_name": "1159_25.png",
+    "render_seed": 1159,
+    "candidate_index": 1,
+    "prompt": "Orange Juice",
+    "clip_sim": 0.9296875,
+    "lpips": 0.5107280611991882,
+    "mse": 0.02511964552104473,
+    "render": "/content/drive/MyDrive/Universidade/Mestrado/2 Semestre/Inteligência Artificial Generativa/GenAI_Img_to_Prompt/students/outputs/20260519-211819_student_prompts/1159_25/candidate_001.png"
+  },
+  {
+    "target": "tp2-chosen/1159_25.png",
+    "target_name": "1159_25.png",
+    "render_seed": 1159,
+    "candidate_index": 2,
+    "prompt": "A refreshing glass of orange juice with ice cubes and a slice of orange on the rim",
+    "clip_sim": 0.92578125,
+    "lpips": 0.5846866369247437,
+    "mse": 0.02845572866499424,
+    "render": "/content/drive/MyDrive/Universidade/Mestrado/2 Semestre/Inteligência Artificial Generativa/GenAI_Img_to_Prompt/students/outputs/20260519-211819_student_prompts/1159_25/candidate_002.png"
+  },
+  {
+    "target": "tp2-chosen/1159_25.png",
+    "target_name": "1159_25.png",
+    "render_seed": 1159,
+    "candidate_index": 3,
+    "prompt": "A vibrant still life of a glass of orange juice, with condensation on the outside and a bright orange slice garnish, set against a sunny background",
+    "clip_sim": 0.9296875,
+    "lpips": 0.5061241388320923,
+    "mse": 0.037619754672050476,
+    "render": "/content/drive/MyDrive/Universidade/Mestrado/2 Semestre/Inteligência Artificial Generativa/GenAI_Img_to_Prompt/students/outputs/20260519-211819_student_prompts/1159_25/candidate_003.png"
+  },
+  {
+    "target": "tp2-chosen/1159_29.png",
+    "target_name": "1159_29.png",
+    "render_seed": 1159,
+    "candidate_index": 1,
+    "prompt": "A palm tree in the middle of the ocean",
+    "clip_sim": 0.89111328125,
+    "lpips": 0.6303048133850098,
+    "mse": 0.0424908883869648,
+    "render": "/content/drive/MyDrive/Universidade/Mestrado/2 Semestre/Inteligência Artificial Generativa/GenAI_Img_to_Prompt/students/outputs/20260519-211819_student_prompts/1159_29/candidate_001.png"
+  }
+]
