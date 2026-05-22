@@ -7,3 +7,4 @@ __pycache__/
 *.lock
 */desktop.ini
 *.log
+/students/outputs/
