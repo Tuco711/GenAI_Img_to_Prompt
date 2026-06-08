@@ -102,7 +102,6 @@ The notebook is organized into four main analytical phases.
 
   * BLIP
   * Florence-2
-  * Additional vision-language models (optional)
 
 The generated captions serve as the initial semantic baseline for prompt inversion.
 
@@ -162,7 +161,6 @@ During execution, the framework automatically creates a dedicated output directo
 * Statistical summaries
 * Similarity matrices
 * Distance matrices
-* Pareto frontier visualizations
 * Experiment metadata
 
 Supported output formats include:
@@ -175,24 +173,6 @@ Supported output formats include:
 ```
 
 ---
-
-## 📂 Output Structure
-
-Example:
-
-```text
-outputs/
-│
-├── generated_images/
-├── prompts/
-├── metrics/
-├── reports/
-├── plots/
-│
-├── results.csv
-├── metrics.json
-└── pareto_frontier.pdf
-```
 
 ---
 
