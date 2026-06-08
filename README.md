@@ -6,7 +6,7 @@ The system automatically extracts semantic baselines from target images using vi
 
 ---
 
-## ⚙️ System Requirements & Dependencies
+## System Requirements & Dependencies
 
 The pipeline requires:
 
@@ -16,7 +16,7 @@ The pipeline requires:
 
 ---
 
-## 🔑 API Credentials Setup
+## API Credentials Setup
 
 Before running the notebook, provide your Google GenAI API credentials.
 
@@ -42,7 +42,7 @@ client = genai.Client(
 
 ---
 
-## 📦 Dependency Installation
+## Dependency Installation
 
 All required dependencies are automatically installed through inline `!pip` commands inside the notebook.
 
@@ -62,7 +62,7 @@ pip install -q -U google.genai transformers pillow pandas matplotlib seaborn
 
 ---
 
-## 🚀 Execution Instructions
+## Execution Instructions
 
 ### Running the Notebook
 
@@ -83,7 +83,7 @@ pip install -q -U google.genai transformers pillow pandas matplotlib seaborn
 
 ---
 
-## 🔄 Notebook Execution Phases
+## Notebook Execution Phases
 
 The notebook is organized into four main analytical phases.
 
@@ -134,7 +134,7 @@ The generated captions serve as the initial semantic baseline for prompt inversi
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 The framework evaluates synthesized outputs across three complementary scientific dimensions.
 
@@ -152,7 +152,7 @@ The framework evaluates synthesized outputs across three complementary scientifi
 
 ---
 
-## 📈 Generated Outputs
+## Generated Outputs
 
 During execution, the framework automatically creates a dedicated output directory containing:
 
@@ -174,9 +174,7 @@ Supported output formats include:
 
 ---
 
----
-
-## 🎯 Research Objective
+## Research Objective
 
 The primary goal of this framework is to investigate **Prompt Inversion** by combining:
 
