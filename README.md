@@ -1,4 +1,4 @@
-# Multi-Modal Prompt Inversion Pipeline
+# Semantic-Driven Image-to-Prompt Inversion via Vision-Language Models and LLM Refinement
 
 An end-to-end multi-modal framework designed for **Prompt Inversion Analysis**, implemented entirely inside a Jupyter Notebook environment.
 
